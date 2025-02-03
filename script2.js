@@ -57,5 +57,6 @@ Array.from(muveletek).forEach(muvelet => {
                eredmeny.textContent = "Nincs ilyen művelet";
         }
         eredmeny.textContent = c;
+        apad
     });
 });
